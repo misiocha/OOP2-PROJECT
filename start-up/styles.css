@@ -1,0 +1,56 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background: linear-gradient(to right, #800080, #6A5ACD, #808080);
+    color: white;
+    margin: 0;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.card-container {
+    background-color: #1E1E1E; /* Choose your preferred background color */
+    border-radius: 50px;
+    padding: 1px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+h2 {
+    color: #6A5ACD; /* Adjust the color as needed */
+}
+
+h3 {
+    color: #6A5ACD; /* Adjust the color as needed */
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #6A5ACD; /* Adjust the color as needed */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #483D8B; /* Adjust the color as needed */
+}
+
+footer {
+    margin-top: 30px;
+}
+
+/* Add more styles as needed */
